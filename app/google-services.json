@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "372583142633",
+    "firebase_url": "https://contact-app-c5bdc.firebaseio.com",
+    "project_id": "contact-app-c5bdc",
+    "storage_bucket": "contact-app-c5bdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372583142633:android:cb2c4ccc3d02e87b",
+        "android_client_info": {
+          "package_name": "com.example.pranto.contactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372583142633-npndob6cughr0tbrdtejg4pin1et897c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pranto.contactapp",
+            "certificate_hash": "8ee83d3cd6994e0b3cc06db113364e9593fab6a6"
+          }
+        },
+        {
+          "client_id": "372583142633-s8859eu8fuvs6aolgpqn2sfavq6l7ctg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1XJzR2mjVE1uZ2UOHl4gSNO0iOScY2Bk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372583142633-s8859eu8fuvs6aolgpqn2sfavq6l7ctg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
